@@ -26,9 +26,4 @@ This project was built from [Psych Engine v1.0.4](https://github.com/ShadowMario
 > Make sure you have **Haxe 4.2.5+** installed and all Psych Engine dependencies.
 
 ```bash
-haxelib install lime
-haxelib install openfl
-haxelib install flixel
-haxelib install flixel-ui
-haxelib install hscript
-haxelib install hxCodec
+open the folder "setup" and open "windows.bat", "windows-msvc.bat"
