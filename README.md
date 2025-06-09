@@ -1,28 +1,29 @@
 # 🌐 zDevEngine
 
-Uma modificação personalizada da **Psych Engine** com várias adições e mudanças visuais, voltada para facilitar a criação de **mods personalizados de Friday Night Funkin'** com qualidade e estilo únicos.
+A custom modification of **Psych Engine** with several additions and visual changes, aimed at facilitating the creation of **custom Friday Night Funkin'** mods with unique quality and style.
 
 ---
 
-## ✨ Funcionalidades 
+## ✨ Features
 
-- 🎥 Suporte a vídeos dentro de stages (melhorado)
-- 🎭 HUD customizada
-- 💬 Tradução para **Espanhol**
-- 💻 Integração opcional com Rich Presence do Discord
-- 🎨 Suporte a shaders customizados (otimizado)
-
----
-
-## 🛠️ Base Utilizada
-
-Este projeto foi construído a partir da [Psych Engine v1.0.4](https://github.com/ShadowMario/FNF-PsychEngine), com diversas alterações no código-fonte em **Haxe** e arquivos **Lua** para eventos, stages e menus.
+- 🎥 Support for videos inside stages (improved)
+- 🎭 Custom HUD
+- 💬 Translation to **Spanish**
+- 💻 New menus
+- 🎨 Support for custom shaders (optimized)
+- 👌 Improved experience
 
 ---
 
-## 🚀 Como Compilar
+## 🛠️ Base Used
 
-> Certifique-se de ter o **Haxe 4.2.5+** instalado e todas as dependências da Psych Engine.
+This project was built from [Psych Engine v1.0.4](https://github.com/ShadowMario/FNF-PsychEngine), with several changes to the **Haxe** source code and **Lua** files for events, stages and menus.
+
+---
+
+## 🚀 How to Compile
+
+> Make sure you have **Haxe 4.2.5+** installed and all Psych Engine dependencies.
 
 ```bash
 haxelib install lime
