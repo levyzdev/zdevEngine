@@ -12,6 +12,7 @@ A custom modification of **Psych Engine** with several additions and visual chan
 - 💻 New menus
 - 🎨 Support for custom shaders (optimized)
 - 👌 Improved experience
+- 👻 Verse Script implemented (Beta)
 
 ---
 
