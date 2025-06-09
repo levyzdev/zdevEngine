@@ -4,18 +4,6 @@ A custom modification of **Psych Engine** with several additions and visual chan
 
 ---
 
-## ✨ Features
-
-- 🎥 Support for videos inside stages (improved)
-- 🎭 Custom HUD
-- 💬 Translation to **Spanish**
-- 💻 New menus
-- 🎨 Support for custom shaders (optimized)
-- 👌 Improved experience
-- 👻 Verse Script implemented (Beta)
-
----
-
 ## 🛠️ Base Used
 
 This project was built from [Psych Engine v1.0.4](https://github.com/ShadowMario/FNF-PsychEngine), with several changes to the **Haxe** source code and **Lua** files for events, stages and menus.
